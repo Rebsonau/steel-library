@@ -1,3 +1,10 @@
+# Steel Library
+
+This project was built with knowledge from my previous experiences within the steel industry. I have created an application that stores information regarding steel sections. It utilises a json sever and includes animations and hover effects.
+
+<img src="public/screenshot.png" width=30% height=30%>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
